@@ -19,6 +19,9 @@ requirejs.config({
 			deps: ['Skulpt'],
 			exports: 'Sk.builtinFiles',
 		},
+		'bootstrap/button': {
+			deps: ['jquery'],
+		},
 		'THREE': {
 			exports: 'THREE'
 		},
