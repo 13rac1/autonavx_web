@@ -22,7 +22,7 @@
     "ace": "~1.1.1",
     "mathjs": "0.21.0",
     "d3": "~3.4.5",
-    "rickshaw": "master",
+    "rickshaw": "v1.5.1",
     "requirejs-text": "~2.0.12",
     "autonavx_skulpt": "https://github.com/eosrei/autonavx_skulpt.git#master"
   }
