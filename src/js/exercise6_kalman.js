@@ -15,11 +15,11 @@ requirejs.config({
 		'Skulpt': {
 			exports: 'Sk'
 		},
-		'bootstrap/button': {
+		'Skulpt/Stdlib': {
 			deps: ['Skulpt'],
 			exports: 'Sk.builtinFiles',
 		},
-		'Skulpt/Stdlib': {
+		'bootstrap/button': {
 			deps: ['jquery'],
 		},
 		'THREE': {

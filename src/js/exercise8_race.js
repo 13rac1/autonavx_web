@@ -16,7 +16,8 @@ requirejs.config({
 			exports: 'Sk'
 		},
 		'Skulpt/Stdlib': {
-			deps: ['jquery'],
+			deps: ['Skulpt'],
+			exports: 'Sk.builtinFiles',
 		},
 		'THREE': {
 			exports: 'THREE'
