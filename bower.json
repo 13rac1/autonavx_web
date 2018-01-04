@@ -17,7 +17,7 @@
   "dependencies": {
     "requirejs": "~2.1.10",
     "bootstrap": "~3.1.0",
-    "threejs": "*",
+    "threejs": "r66",
     "requirejs-domready": "~2.0.1",
     "ace": "~1.1.1",
     "mathjs": "0.21.0",
